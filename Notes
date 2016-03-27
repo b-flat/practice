@@ -1,0 +1,28 @@
+Data pipeline
+
+Depreciated:
+
+```
+1. data: 
+    a. clean tweets
+    b. add y
+        i. randompy assign yes or no
+        ii. do unsupervised classification/sentiment analysis and then assign yes or no
+2. train & pickle: tfidf + logistic
+3. predict
+
+see fraud detect for live stream
+
+
+MongoDB scripts
+
+```
+To do 
+
+1.finish tfidf/logistic
+a. clean tweets - re
+b. train, pickle, predict
+
+2. do sentiment analysis part
+
+
